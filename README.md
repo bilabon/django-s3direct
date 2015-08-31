@@ -1,5 +1,6 @@
 django-s3direct
 ===============
+http://www.vinta.com.br/blog/2015/uploading-files-from-the-frontend-to-S3.html
 
 Upload files direct to S3 from Django
 -------------------------------------
